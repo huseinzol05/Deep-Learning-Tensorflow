@@ -1,0 +1,386 @@
+#001	#001	Bulbasaur	Bulbasaur	Grass	Poison
+#002	#002	Ivysaur	Ivysaur	Grass	Poison
+#003	#003	Venusaur	Venusaur	Grass	Poison
+#004	#004	Charmander	Charmander	Fire
+#005	#005	Charmeleon	Charmeleon	Fire
+#006	#006	Charizard	Charizard	Fire	Flying
+#007	#007	Squirtle	Squirtle	Water
+#008	#008	Wartortle	Wartortle	Water
+#009	#009	Blastoise	Blastoise	Water
+#010	#010	Caterpie	Caterpie	Bug
+#011	#011	Metapod	Metapod	Bug
+#012	#012	Butterfree	Butterfree	Bug	Flying
+#013	#013	Weedle	Weedle	Bug	Poison
+#014	#014	Kakuna	Kakuna	Bug	Poison
+#015	#015	Beedrill	Beedrill	Bug	Poison
+#016	#016	Pidgey	Pidgey	Normal	Flying
+#017	#017	Pidgeotto	Pidgeotto	Normal	Flying
+#018	#018	Pidgeot	Pidgeot	Normal	Flying
+#019	#019	Rattata	Rattata	Normal
+#020	#020	Raticate	Raticate	Normal
+#021	#021	Spearow	Spearow	Normal	Flying
+#022	#022	Fearow	Fearow	Normal	Flying
+#023	#023	Ekans	Ekans	Poison
+#024	#024	Arbok	Arbok	Poison
+#025	#025	Pikachu	Pikachu	Electric
+#026	#026	Raichu	Raichu	Electric
+#027	#027	Sandshrew	Sandshrew	Ground
+#028	#028	Sandslash	Sandslash	Ground
+#029	#029	Nidoran♀	Nidoran♀	Poison
+#030	#030	Nidorina	Nidorina	Poison
+#031	#031	Nidoqueen	Nidoqueen	Poison	Ground
+#032	#032	Nidoran♂	Nidoran♂	Poison
+#033	#033	Nidorino	Nidorino	Poison
+#034	#034	Nidoking	Nidoking	Poison	Ground
+#035	#035	Clefairy	Clefairy	Fairy
+#036	#036	Clefable	Clefable	Fairy
+#037	#037	Vulpix	Vulpix	Fire
+#038	#038	Ninetales	Ninetales	Fire
+#039	#039	Jigglypuff	Jigglypuff	Normal	Fairy
+#040	#040	Wigglytuff	Wigglytuff	Normal	Fairy
+#041	#041	Zubat	Zubat	Poison	Flying
+#042	#042	Golbat	Golbat	Poison	Flying
+#043	#043	Oddish	Oddish	Grass	Poison
+#044	#044	Gloom	Gloom	Grass	Poison
+#045	#045	Vileplume	Vileplume	Grass	Poison
+#046	#046	Paras	Paras	Bug	Grass
+#047	#047	Parasect	Parasect	Bug	Grass
+#048	#048	Venonat	Venonat	Bug	Poison
+#049	#049	Venomoth	Venomoth	Bug	Poison
+#050	#050	Diglett	Diglett	Ground
+#051	#051	Dugtrio	Dugtrio	Ground
+#052	#052	Meowth	Meowth	Normal
+#053	#053	Persian	Persian	Normal
+#054	#054	Psyduck	Psyduck	Water
+#055	#055	Golduck	Golduck	Water
+#056	#056	Mankey	Mankey	Fighting
+#057	#057	Primeape	Primeape	Fighting
+#058	#058	Growlithe	Growlithe	Fire
+#059	#059	Arcanine	Arcanine	Fire
+#060	#060	Poliwag	Poliwag	Water
+#061	#061	Poliwhirl	Poliwhirl	Water
+#062	#062	Poliwrath	Poliwrath	Water	Fighting
+#063	#063	Abra	Abra	Psychic
+#064	#064	Kadabra	Kadabra	Psychic
+#065	#065	Alakazam	Alakazam	Psychic
+#066	#066	Machop	Machop	Fighting
+#067	#067	Machoke	Machoke	Fighting
+#068	#068	Machamp	Machamp	Fighting
+#069	#069	Bellsprout	Bellsprout	Grass	Poison
+#070	#070	Weepinbell	Weepinbell	Grass	Poison
+#071	#071	Victreebel	Victreebel	Grass	Poison
+#072	#072	Tentacool	Tentacool	Water	Poison
+#073	#073	Tentacruel	Tentacruel	Water	Poison
+#074	#074	Geodude	Geodude	Rock	Ground
+#075	#075	Graveler	Graveler	Rock	Ground
+#076	#076	Golem	Golem	Rock	Ground
+#077	#077	Ponyta	Ponyta	Fire
+#078	#078	Rapidash	Rapidash	Fire
+#079	#079	Slowpoke	Slowpoke	Water	Psychic
+#080	#080	Slowbro	Slowbro	Water	Psychic
+#081	#081	Magnemite	Magnemite	Electric	Steel
+#082	#082	Magneton	Magneton	Electric	Steel
+#083	#083	Farfetch'd	Farfetch'd	Normal	Flying
+#084	#084	Doduo	Doduo	Normal	Flying
+#085	#085	Dodrio	Dodrio	Normal	Flying
+#086	#086	Seel	Seel	Water
+#087	#087	Dewgong	Dewgong	Water	Ice
+#088	#088	Grimer	Grimer	Poison
+#089	#089	Muk	Muk	Poison
+#090	#090	Shellder	Shellder	Water
+#091	#091	Cloyster	Cloyster	Water	Ice
+#092	#092	Gastly	Gastly	Ghost	Poison
+#093	#093	Haunter	Haunter	Ghost	Poison
+#094	#094	Gengar	Gengar	Ghost	Poison
+#095	#095	Onix	Onix	Rock	Ground
+#096	#096	Drowzee	Drowzee	Psychic
+#097	#097	Hypno	Hypno	Psychic
+#098	#098	Krabby	Krabby	Water
+#099	#099	Kingler	Kingler	Water
+#100	#100	Voltorb	Voltorb	Electric
+#101	#101	Electrode	Electrode	Electric
+#102	#102	Exeggcute	Exeggcute	Grass	Psychic
+#103	#103	Exeggutor	Exeggutor	Grass	Psychic
+#104	#104	Cubone	Cubone	Ground
+#105	#105	Marowak	Marowak	Ground
+#106	#106	Hitmonlee	Hitmonlee	Fighting
+#107	#107	Hitmonchan	Hitmonchan	Fighting
+#108	#108	Lickitung	Lickitung	Normal
+#109	#109	Koffing	Koffing	Poison
+#110	#110	Weezing	Weezing	Poison
+#111	#111	Rhyhorn	Rhyhorn	Ground	Rock
+#112	#112	Rhydon	Rhydon	Ground	Rock
+#113	#113	Chansey	Chansey	Normal
+#114	#114	Tangela	Tangela	Grass
+#115	#115	Kangaskhan	Kangaskhan	Normal
+#116	#116	Horsea	Horsea	Water
+#117	#117	Seadra	Seadra	Water
+#118	#118	Goldeen	Goldeen	Water
+#119	#119	Seaking	Seaking	Water
+#120	#120	Staryu	Staryu	Water
+#121	#121	Starmie	Starmie	Water	Psychic
+#122	#122	Mr. Mime	Mr. Mime	Psychic	Fairy
+#123	#123	Scyther	Scyther	Bug	Flying
+#124	#124	Jynx	Jynx	Ice	Psychic
+#125	#125	Electabuzz	Electabuzz	Electric
+#126	#126	Magmar	Magmar	Fire
+#127	#127	Pinsir	Pinsir	Bug
+#128	#128	Tauros	Tauros	Normal
+#129	#129	Magikarp	Magikarp	Water
+#130	#130	Gyarados	Gyarados	Water	Flying
+#131	#131	Lapras	Lapras	Water	Ice
+#132	#132	Ditto	Ditto	Normal
+#133	#133	Eevee	Eevee	Normal
+#134	#134	Vaporeon	Vaporeon	Water
+#135	#135	Jolteon	Jolteon	Electric
+#136	#136	Flareon	Flareon	Fire
+#137	#137	Porygon	Porygon	Normal
+#138	#138	Omanyte	Omanyte	Rock	Water
+#139	#139	Omastar	Omastar	Rock	Water
+#140	#140	Kabuto	Kabuto	Rock	Water
+#141	#141	Kabutops	Kabutops	Rock	Water
+#142	#142	Aerodactyl	Aerodactyl	Rock	Flying
+#143	#143	Snorlax	Snorlax	Normal
+#144	#144	Articuno	Articuno	Ice	Flying
+#145	#145	Zapdos	Zapdos	Electric	Flying
+#146	#146	Moltres	Moltres	Fire	Flying
+#147	#147	Dratini	Dratini	Dragon
+#148	#148	Dragonair	Dragonair	Dragon
+#149	#149	Dragonite	Dragonite	Dragon	Flying
+#150	#150	Mewtwo	Mewtwo	Psychic
+#151	#151	Mew	Mew	Psychic
+#001	#152	Chikorita	Chikorita	Grass
+#002	#153	Bayleef	Bayleef	Grass
+#003	#154	Meganium	Meganium	Grass
+#004	#155	Cyndaquil	Cyndaquil	Fire
+#005	#156	Quilava	Quilava	Fire
+#006	#157	Typhlosion	Typhlosion	Fire
+#007	#158	Totodile	Totodile	Water
+#008	#159	Croconaw	Croconaw	Water
+#009	#160	Feraligatr	Feraligatr	Water
+#019	#161	Sentret	Sentret	Normal
+#020	#162	Furret	Furret	Normal
+#015	#163	Hoothoot	Hoothoot	Normal	Flying
+#016	#164	Noctowl	Noctowl	Normal	Flying
+#030	#165	Ledyba	Ledyba	Bug	Flying
+#031	#166	Ledian	Ledian	Bug	Flying
+#032	#167	Spinarak	Spinarak	Bug	Poison
+#033	#168	Ariados	Ariados	Bug	Poison
+#039	#169	Crobat	Crobat	Poison	Flying
+#176	#170	Chinchou	Chinchou	Water	Electric
+#177	#171	Lanturn	Lanturn	Water	Electric
+#021	#172	Pichu	Pichu	Electric
+#040	#173	Cleffa	Cleffa	Fairy
+#044	#174	Igglybuff	Igglybuff	Normal	Fairy
+#046	#175	Togepi	Togepi	Fairy
+#047	#176	Togetic	Togetic	Fairy	Flying
+#161	#177	Natu	Natu	Psychic	Flying
+#162	#178	Xatu	Xatu	Psychic	Flying
+#053	#179	Mareep	Mareep	Electric
+#054	#180	Flaaffy	Flaaffy	Electric
+#055	#181	Ampharos	Ampharos	Electric
+#086	#182	Bellossom	Bellossom	Grass
+#132	#183	Marill	Marill	Water	Fairy
+#133	#184	Azumarill	Azumarill	Water	Fairy
+#107	#185	Sudowoodo	Sudowoodo	Rock
+#075	#186	Politoed	Politoed	Water
+#067	#187	Hoppip	Hoppip	Grass	Flying
+#068	#188	Skiploom	Skiploom	Grass	Flying
+#069	#189	Jumpluff	Jumpluff	Grass	Flying
+#123	#190	Aipom	Aipom	Normal
+#103	#191	Sunkern	Sunkern	Grass
+#104	#192	Sunflora	Sunflora	Grass
+#101	#193	Yanma	Yanma	Bug	Flying
+#056	#194	Wooper	Wooper	Water	Ground
+#057	#195	Quagsire	Quagsire	Water	Ground
+#188	#196	Espeon	Espeon	Psychic
+#189	#197	Umbreon	Umbreon	Dark
+#213	#198	Murkrow	Murkrow	Dark	Flying
+#082	#199	Slowking	Slowking	Water	Psychic
+#219	#200	Misdreavus	Misdreavus	Ghost
+#061	#201	Unown	Unown	Psychic
+#108	#202	Wobbuffet	Wobbuffet	Psychic
+#149	#203	Girafarig	Girafarig	Normal	Psychic
+#093	#204	Pineco	Pineco	Bug
+#094	#205	Forretress	Forretress	Bug	Steel
+#052	#206	Dunsparce	Dunsparce	Normal
+#193	#207	Gligar	Gligar	Ground	Flying
+#063	#208	Steelix	Steelix	Steel	Ground
+#125	#209	Snubbull	Snubbull	Fairy
+#126	#210	Granbull	Granbull	Fairy
+#163	#211	Qwilfish	Qwilfish	Water	Poison
+#112	#212	Scizor	Scizor	Bug	Steel
+#168	#213	Shuckle	Shuckle	Bug	Rock
+#114	#214	Heracross	Heracross	Bug	Fighting
+#218	#215	Sneasel	Sneasel	Dark	Ice
+#198	#216	Teddiursa	Teddiursa	Normal
+#199	#217	Ursaring	Ursaring	Normal
+#216	#218	Slugma	Slugma	Fire
+#217	#219	Magcargo	Magcargo	Fire	Rock
+#195	#220	Swinub	Swinub	Ice	Ground
+#196	#221	Piloswine	Piloswine	Ice	Ground
+#173	#222	Corsola	Corsola	Water	Rock
+#174	#223	Remoraid	Remoraid	Water
+#175	#224	Octillery	Octillery	Water
+#194	#225	Delibird	Delibird	Ice	Flying
+#202	#226	Mantine	Mantine	Water	Flying
+#203	#227	Skarmory	Skarmory	Steel	Flying
+#214	#228	Houndour	Houndour	Dark	Fire
+#215	#229	Houndoom	Houndoom	Dark	Fire
+#192	#230	Kingdra	Kingdra	Water	Dragon
+#200	#231	Phanpy	Phanpy	Ground
+#201	#232	Donphan	Donphan	Ground
+#221	#233	Porygon2	Porygon2	Normal
+#131	#234	Stantler	Stantler	Normal
+#159	#235	Smeargle	Smeargle	Normal
+#145	#236	Tyrogue	Tyrogue	Fighting
+#148	#237	Hitmontop	Hitmontop	Fighting
+#154	#238	Smoochum	Smoochum	Ice	Psychic
+#156	#239	Elekid	Elekid	Electric
+#152	#240	Magby	Magby	Fire
+#151	#241	Miltank	Miltank	Normal
+#223	#242	Blissey	Blissey	Normal
+#243	#243	Raikou	Raikou	Electric
+#244	#244	Entei	Entei	Fire
+#245	#245	Suicune	Suicune	Water
+#249	#246	Larvitar	Larvitar	Rock	Ground
+#250	#247	Pupitar	Pupitar	Rock	Ground
+#251	#248	Tyranitar	Tyranitar	Rock	Dark
+#252	#249	Lugia	Lugia	Psychic	Flying
+#253	#250	Ho-Oh	Ho-Oh	Fire	Flying
+#256	#251	Celebi	Celebi	Psychic	Grass
+#001	#252	Treecko	Treecko	Grass
+#002	#253	Grovyle	Grovyle	Grass
+#003	#254	Sceptile	Sceptile	Grass
+#004	#255	Torchic	Torchic	Fire
+#005	#256	Combusken	Combusken	Fire	Fighting
+#006	#257	Blaziken	Blaziken	Fire	Fighting
+#007	#258	Mudkip	Mudkip	Water
+#008	#259	Marshtomp	Marshtomp	Water	Ground
+#009	#260	Swampert	Swampert	Water	Ground
+#010	#261	Poochyena	Poochyena	Dark
+#011	#262	Mightyena	Mightyena	Dark
+#012	#263	Zigzagoon	Zigzagoon	Normal
+#013	#264	Linoone	Linoone	Normal
+#014	#265	Wurmple	Wurmple	Bug
+#015	#266	Silcoon	Silcoon	Bug
+#016	#267	Beautifly	Beautifly	Bug	Flying
+#017	#268	Cascoon	Cascoon	Bug
+#018	#269	Dustox	Dustox	Bug	Poison
+#019	#270	Lotad	Lotad	Water	Grass
+#020	#271	Lombre	Lombre	Water	Grass
+#021	#272	Ludicolo	Ludicolo	Water	Grass
+#022	#273	Seedot	Seedot	Grass
+#023	#274	Nuzleaf	Nuzleaf	Grass	Dark
+#024	#275	Shiftry	Shiftry	Grass	Dark
+#025	#276	Taillow	Taillow	Normal	Flying
+#026	#277	Swellow	Swellow	Normal	Flying
+#027	#278	Wingull	Wingull	Water	Flying
+#028	#279	Pelipper	Pelipper	Water	Flying
+#029	#280	Ralts	Ralts	Psychic	Fairy
+#030	#281	Kirlia	Kirlia	Psychic	Fairy
+#031	#282	Gardevoir	Gardevoir	Psychic	Fairy
+#032	#283	Surskit	Surskit	Bug	Water
+#033	#284	Masquerain	Masquerain	Bug	Flying
+#034	#285	Shroomish	Shroomish	Grass
+#035	#286	Breloom	Breloom	Grass	Fighting
+#036	#287	Slakoth	Slakoth	Normal
+#037	#288	Vigoroth	Vigoroth	Normal
+#038	#289	Slaking	Slaking	Normal
+#042	#290	Nincada	Nincada	Bug	Ground
+#043	#291	Ninjask	Ninjask	Bug	Flying
+#044	#292	Shedinja	Shedinja	Bug	Ghost
+#045	#293	Whismur	Whismur	Normal
+#046	#294	Loudred	Loudred	Normal
+#047	#295	Exploud	Exploud	Normal
+#048	#296	Makuhita	Makuhita	Fighting
+#049	#297	Hariyama	Hariyama	Fighting
+#054	#298	Azurill	Azurill	Normal	Fairy
+#060	#299	Nosepass	Nosepass	Rock
+#061	#300	Skitty	Skitty	Normal
+#062	#301	Delcatty	Delcatty	Normal
+#068	#302	Sableye	Sableye	Dark	Ghost
+#069	#303	Mawile	Mawile	Steel	Fairy
+#070	#304	Aron	Aron	Steel	Rock
+#071	#305	Lairon	Lairon	Steel	Rock
+#072	#306	Aggron	Aggron	Steel	Rock
+#076	#307	Meditite	Meditite	Fighting	Psychic
+#077	#308	Medicham	Medicham	Fighting	Psychic
+#078	#309	Electrike	Electrike	Electric
+#079	#310	Manectric	Manectric	Electric
+#080	#311	Plusle	Plusle	Electric
+#081	#312	Minun	Minun	Electric
+#086	#313	Volbeat	Volbeat	Bug
+#087	#314	Illumise	Illumise	Bug
+#094	#315	Roselia	Roselia	Grass	Poison
+#095	#316	Gulpin	Gulpin	Poison
+#096	#317	Swalot	Swalot	Poison
+#097	#318	Carvanha	Carvanha	Water	Dark
+#098	#319	Sharpedo	Sharpedo	Water	Dark
+#099	#320	Wailmer	Wailmer	Water
+#100	#321	Wailord	Wailord	Water
+#101	#322	Numel	Numel	Fire	Ground
+#102	#323	Camerupt	Camerupt	Fire	Ground
+#105	#324	Torkoal	Torkoal	Fire
+#110	#325	Spoink	Spoink	Psychic
+#111	#326	Grumpig	Grumpig	Psychic
+#114	#327	Spinda	Spinda	Normal
+#116	#328	Trapinch	Trapinch	Ground
+#117	#329	Vibrava	Vibrava	Ground	Dragon
+#118	#330	Flygon	Flygon	Ground	Dragon
+#119	#331	Cacnea	Cacnea	Grass
+#120	#332	Cacturne	Cacturne	Grass	Dark
+#121	#333	Swablu	Swablu	Normal	Flying
+#122	#334	Altaria	Altaria	Dragon	Flying
+#123	#335	Zangoose	Zangoose	Normal
+#124	#336	Seviper	Seviper	Poison
+#125	#337	Lunatone	Lunatone	Rock	Psychic
+#126	#338	Solrock	Solrock	Rock	Psychic
+#127	#339	Barboach	Barboach	Water	Ground
+#128	#340	Whiscash	Whiscash	Water	Ground
+#129	#341	Corphish	Corphish	Water
+#130	#342	Crawdaunt	Crawdaunt	Water	Dark
+#131	#343	Baltoy	Baltoy	Ground	Psychic
+#132	#344	Claydol	Claydol	Ground	Psychic
+#133	#345	Lileep	Lileep	Rock	Grass
+#134	#346	Cradily	Cradily	Rock	Grass
+#135	#347	Anorith	Anorith	Rock	Bug
+#136	#348	Armaldo	Armaldo	Rock	Bug
+#140	#349	Feebas	Feebas	Water
+#141	#350	Milotic	Milotic	Water
+#142	#351	Castform	Castform	Normal
+#145	#352	Kecleon	Kecleon	Normal
+#146	#353	Shuppet	Shuppet	Ghost
+#147	#354	Banette	Banette	Ghost
+#148	#355	Duskull	Duskull	Ghost
+#149	#356	Dusclops	Dusclops	Ghost
+#150	#357	Tropius	Tropius	Grass	Flying
+#151	#358	Chimecho	Chimecho	Psychic
+#152	#359	Absol	Absol	Dark
+#160	#360	Wynaut	Wynaut	Psychic
+#171	#361	Snorunt	Snorunt	Ice
+#172	#362	Glalie	Glalie	Ice
+#173	#363	Spheal	Spheal	Ice	Water
+#174	#364	Sealeo	Sealeo	Ice	Water
+#175	#365	Walrein	Walrein	Ice	Water
+#176	#366	Clamperl	Clamperl	Water
+#177	#367	Huntail	Huntail	Water
+#178	#368	Gorebyss	Gorebyss	Water
+#179	#369	Relicanth	Relicanth	Water	Rock
+#183	#370	Luvdisc	Luvdisc	Water
+#187	#371	Bagon	Bagon	Dragon
+#188	#372	Shelgon	Shelgon	Dragon
+#189	#373	Salamence	Salamence	Dragon	Flying
+#190	#374	Beldum	Beldum	Steel	Psychic
+#191	#375	Metang	Metang	Steel	Psychic
+#192	#376	Metagross	Metagross	Steel	Psychic
+#193	#377	Regirock	Regirock	Rock
+#194	#378	Regice	Regice	Ice
+#195	#379	Registeel	Registeel	Steel
+#196	#380	Latias	Latias	Dragon	Psychic
+#197	#381	Latios	Latios	Dragon	Psychic
+#198	#382	Kyogre	Kyogre	Water
+#199	#383	Groudon	Groudon	Ground
+#200	#384	Rayquaza	Rayquaza	Dragon	Flying
+#201	#385	Jirachi	Jirachi	Steel	Psychic
+#202	#386	Deoxys	Deoxys	Psychic
