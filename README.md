@@ -70,6 +70,18 @@ KING RICHARD III:
 Belowlance to the rige, come.
 ```
 3. trained to classify any length of sound [In training]
+4. trained to classify sentiment
+```text
+total accuracy during training: 0.998590225564
+epoch: 20, loss: 0.751066319476, speed: 0.265403051692s / batch
+total accuracy during testing: 0.722925
+             precision    recall  f1-score   support
+
+   negative       0.72      0.74      0.73      1075
+   positive       0.73      0.70      0.72      1058
+
+avg / total       0.72      0.72      0.72      2133
+```
 
 ## Essay-Attention-Seq2Seq
 
