@@ -45,7 +45,7 @@ actual respond: Dia cakap dia dapat lihat
 ![alt text](http://img.blog.csdn.net/20160918133222494)
 
 ## DCGAN
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/download%20(5).png)
+![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png)
 Trained Discriminate and Generative networks to generate house numbers
 
 ## Deep Convolutional
