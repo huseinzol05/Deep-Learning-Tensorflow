@@ -13,7 +13,6 @@ sudo pip install scipy numpy matplotlib librosa pandas seaborn
 - If you got GPU, compile it with CUDA
 
 ## Basic-Seq2Seq
-
 Generate encoder and decoder by creating 2 Deep Recurrent Neural Network to predict incoming text
 ```text
 input: [[  6  80 940 941   0   0   0]]
@@ -28,7 +27,6 @@ predict text: Kita Kita mula dengan proses penyejukkan.
 ```
 
 ## Chatbot-Attention-Seq2Seq
-
 Generate chatbot using attention model on Sequence-to-Sequence Tensorflow API
 ```text
 sentence: 1
@@ -41,15 +39,14 @@ input: Ruparupanya awak boleh
 predict respond: Dia pulihkan akan 
 actual respond: Dia cakap dia dapat lihat
 ```
-## DCGAN Model
-![alt text](http://img.blog.csdn.net/20160918133222494)
 
-## DCGAN
+## DCGAN (Simplify and Original for House Number)
 ![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png)
 
+## WGAN Improvement
+## DiscoGAN (original paper and Fashion MNIST)
 
 ## Deep Convolutional
-
 1. trained to label 100 classes
 ![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/100-classes/sample.png)
 2. trained to label multitags, a single picture can be more than 1 tag
