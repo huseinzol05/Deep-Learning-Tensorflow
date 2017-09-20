@@ -46,6 +46,8 @@ actual respond: Dia cakap dia dapat lihat
 
 ## WGAN Improvement
 ## DiscoGAN (original paper and Fashion MNIST)
+## Residual Network for CIFAR-10
+<img src="http://yanran.li/images/resnet_2.png" alt="Drawing" height="200"/>
 
 ## Deep Convolutional
 1. trained to label 100 classes
