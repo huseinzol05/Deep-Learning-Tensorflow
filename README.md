@@ -43,20 +43,24 @@ actual respond: Dia cakap dia dapat lihat
 
 ## DCGAN (Simplify and Original for House Number)
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png" alt="Drawing" height="200"/>
+
 ## WGAN Improvement
 ## DiscoGAN (original paper and Fashion MNIST)
 
 ## Deep Convolutional
 1. trained to label 100 classes
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/100-classes/sample.png)
-<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png" alt="Drawing" height="200"/>
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/100-classes/sample.png" alt="Drawing" height="200"/>
+
 2. trained to label multitags, a single picture can be more than 1 tag
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/multilabel/Screenshot%20from%202017-08-04%2010-08-25.png" alt="Drawing" height="200"/>
+
 3. trained to predict pokemon type
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/pokemon-type/download.png" alt="Drawing" height="200"/>
+
 ## Deep Recurrent
 1. trained to predict stock market
 <img src="https://raw.githubusercontent.com/huseinzol05/Predicting-Stock-Recurrent-Neural-Network/master/output/latestunited.png" alt="Drawing" height="200"/>
+
 2. trained to generate sentence
 ```text
 mercy; the fool
@@ -166,14 +170,17 @@ Normalized: [[-0.79258448 -0.60976213]]
 [[ 0.45442131  0.54557872]]
 [[ 0.  1.]]
 ```
-6. sound-classification [in training]
+6. sound-classification
 
-#### 9- Introduction on layer normalization
+## Introduction on layer normalization
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/batch-normalization/Screenshot%20from%202017-08-04%2010-24-08.png" alt="Drawing" height="200"/>
-#### 10- Encoder model, both multi-perceptron and Convolutional
+
+## Encoder model, both multi-perceptron and Convolutional
 1. multi-perceptron
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(3).png" alt="Drawing" height="200"/>
+
 2. Convolutional
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(4).png" alt="Drawing" height="200"/>
-#### 11- Word vector both using softmax and NCE
+
+## Word vector both using softmax and NCE
 <img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/wordvector/download%20(1).png" alt="Drawing" height="200"/>
