@@ -1,7 +1,7 @@
 # Deep-Learning-Tensorflow
 ### Purely Tensorflow, no Keras or other abstract libraries of Tensorflow
 
-![alt text](https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688)
+<img src="https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688" alt="Drawing" style="width: 100px;"/>
 
 The code are lack of comments, sorry for that. I will add it later.
 
