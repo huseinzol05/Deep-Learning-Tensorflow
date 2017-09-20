@@ -1,7 +1,7 @@
 # Deep-Learning-Tensorflow
 ### Purely Tensorflow, no Keras or other abstract libraries of Tensorflow
 
-<img src="https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688" alt="Drawing" style="width: 100px;"/>
+<img src="https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688" alt="Drawing" height="200"/>
 
 The code are lack of comments, sorry for that. I will add it later.
 
@@ -11,6 +11,7 @@ sudo pip install scipy numpy matplotlib librosa pandas seaborn
 ```
 - I recommended install Tensorflow from source, way more faster
 - If you got GPU, compile it with CUDA
+- You need to download CIFAR-10, CIFAR-100
 
 ## Basic-Seq2Seq
 Generate encoder and decoder by creating 2 Deep Recurrent Neural Network to predict incoming text
@@ -41,21 +42,21 @@ actual respond: Dia cakap dia dapat lihat
 ```
 
 ## DCGAN (Simplify and Original for House Number)
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png)
-
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png" alt="Drawing" height="200"/>
 ## WGAN Improvement
 ## DiscoGAN (original paper and Fashion MNIST)
 
 ## Deep Convolutional
 1. trained to label 100 classes
 ![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/100-classes/sample.png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/DCGAN/example.png" alt="Drawing" height="200"/>
 2. trained to label multitags, a single picture can be more than 1 tag
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/multilabel/Screenshot%20from%202017-08-04%2010-08-25.png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/multilabel/Screenshot%20from%202017-08-04%2010-08-25.png" alt="Drawing" height="200"/>
 3. trained to predict pokemon type
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/pokemon-type/download.png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/Deep%20Convolutional/pokemon-type/download.png" alt="Drawing" height="200"/>
 ## Deep Recurrent
 1. trained to predict stock market
-![alt text](https://raw.githubusercontent.com/huseinzol05/Predicting-Stock-Recurrent-Neural-Network/master/output/latestunited.png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Predicting-Stock-Recurrent-Neural-Network/master/output/latestunited.png" alt="Drawing" height="200"/>
 2. trained to generate sentence
 ```text
 mercy; the fool
@@ -66,7 +67,7 @@ Whoreson's equally to that.
 KING RICHARD III:
 Belowlance to the rige, come.
 ```
-3. trained to classify any length of sound [In training]
+3. trained to classify any length of sound
 4. trained to classify sentiment
 ```text
 total accuracy during training: 0.998590225564
@@ -81,7 +82,6 @@ avg / total       0.72      0.72      0.72      2133
 ```
 
 ## Essay-Attention-Seq2Seq
-
 Generate simplified sentence for an essay using Attention Seq2Seq
 ```text
 actual text: Pemberian kerja rumah bermotif untuk memupuk unsur pembelajaran kendiri dalam sanubari murid. Kerja rumah turut berperanan sebagai aktiviti pengukuhan bagi pembelajaran di dalam kelas. Tambahan pula, kerja rumah memberi peluang keemasan kepada ahli-ahli keluarga untuk bersama dengan anak-anak semasa mereka belajar. Malahan, kerja rumah merupakan platform kejayaan murid-murid dalam pelajaran kerana banyak latihan yang dilakukan. Lebih-lebih lagi, kerja rumah diberikan bertujuan untuk mengisi masa lapang mereka dengan aktiviti berfaedah yang mampu mendorong mereka berjaya dalam pelajaran
@@ -169,11 +169,11 @@ Normalized: [[-0.79258448 -0.60976213]]
 6. sound-classification [in training]
 
 #### 9- Introduction on layer normalization
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/batch-normalization/Screenshot%20from%202017-08-04%2010-24-08.png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/batch-normalization/Screenshot%20from%202017-08-04%2010-24-08.png" alt="Drawing" height="200"/>
 #### 10- Encoder model, both multi-perceptron and Convolutional
 1. multi-perceptron
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(3).png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(3).png" alt="Drawing" height="200"/>
 2. Convolutional
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(4).png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/encoder/download%20(4).png" alt="Drawing" height="200"/>
 #### 11- Word vector both using softmax and NCE
-![alt text](https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/wordvector/download%20(1).png)
+<img src="https://raw.githubusercontent.com/huseinzol05/Deep-Learning-Tensorflow/master/wordvector/download%20(1).png" alt="Drawing" height="200"/>
