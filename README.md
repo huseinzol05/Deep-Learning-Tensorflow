@@ -9,7 +9,7 @@ The code are lack of comments, sorry for that. I will add it later.
 ```bash
 sudo pip install scipy numpy matplotlib librosa pandas seaborn
 ```
-- I recommended install Tensorflow from source, way more faster
+- I recommended install Tensorflow from source, way faster
 - If you got GPU, compile it with CUDA
 - You need to download CIFAR-10, CIFAR-100
 
