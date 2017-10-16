@@ -1,10 +1,6 @@
 # Deep-Learning-Tensorflow
 ### Purely Tensorflow, no Keras or other abstract libraries of Tensorflow
 
-<img src="https://lh3.googleusercontent.com/hIViPosdbSGUpLmPnP2WqL9EmvoVOXW7dy6nztmY5NZ9_u5lumMz4sQjjsBZ2QxjyZZCIPgucD2rhdL5uR7K0vLi09CEJYY=s688" alt="Drawing" height="200"/>
-
-The code are lack of comments, sorry for that. I will add it later.
-
 ## Dependencies
 ```bash
 sudo pip install scipy numpy matplotlib librosa pandas seaborn
