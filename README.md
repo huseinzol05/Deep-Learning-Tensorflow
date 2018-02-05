@@ -25,12 +25,15 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 1. Music Generator
 2. Stock forecasting
 3. Text Generator
+4. [Text Classifier](https://github.com/huseinzol05/Emotion-Classification-Comparison)
 
 ## Sequence-to-Sequence Model
 1. Attention Basic Decoder (new API)
 2. Basic Seq-to-Seq
 3. Chatbot with Attention (old API)
 4. Summarization with Attention (old API)
+5. Decoder with Beam
+6. Bidirectional Encoder
 
 ## Regression
 1. Linear Regression
