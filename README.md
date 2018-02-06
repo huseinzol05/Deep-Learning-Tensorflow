@@ -12,8 +12,10 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 1. Batch-normalization
 2. Encoder-Decoder
 3. Word Vector
-4. Dropout
-5. L1, L2, L1-L2 Regularization
+4. Dropout Comparison
+5. L1, L2, L1-L2 Regularization Comparison
+6. Optimizer Comparison
+7. Batch-normalization Comparison
 
 ## Generative Adversarial Network
 1. DCGAN
@@ -26,6 +28,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 2. Stock forecasting
 3. Text Generator
 4. [Text Classifier](https://github.com/huseinzol05/Emotion-Classification-Comparison)
+5. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
 
 ## Sequence-to-Sequence Model
 1. Attention Basic Decoder (new API)
