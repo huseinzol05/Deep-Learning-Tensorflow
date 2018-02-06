@@ -12,10 +12,10 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 1. Batch-normalization
 2. Encoder-Decoder
 3. Word Vector
-4. Dropout Comparison
-5. L1, L2, L1-L2 Regularization Comparison
-6. Optimizer Comparison
-7. Batch-normalization Comparison
+4. Dropout Comparison, GIF included
+5. L1, L2, L1-L2 Regularization Comparison, GIF included
+6. Optimizer Comparison (Gradient Descent, Adagrad, RMSProp, Adam), GIF included
+7. Batch-normalization Comparison, GIF included
 
 ## Generative Adversarial Network
 1. DCGAN
@@ -25,7 +25,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 
 ## Recurrent Neural Network
 1. Music Generator
-2. Stock forecasting
+2. Stock forecasting, GIF included
 3. Text Generator
 4. [Text Classifier](https://github.com/huseinzol05/Emotion-Classification-Comparison)
 5. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
@@ -39,10 +39,10 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 6. Bidirectional Encoder
 
 ## Regression
-1. Linear Regression
-2. Polynomial Regression
-3. Ridge Regression
-4. Lasso Regression
-5. Elastic-net Regression
+1. Linear Regression, GIF included
+2. Polynomial Regression, GIF included
+3. Ridge Regression, GIF included
+4. Lasso Regression, GIF included
+5. Elastic-net Regression, GIF included
 
 
