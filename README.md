@@ -3,6 +3,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 
 *Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.*
 
+![alt text](Feed-Forward/dropout-comparison/animation.gif)
+
 ## Convolutional Neural Network
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
