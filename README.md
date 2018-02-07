@@ -1,6 +1,8 @@
 # Deep-Learning-Tensorflow
 Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 
+*Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.*
+
 ## Convolutional Neural Network
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
@@ -29,6 +31,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 3. Text Generator
 4. [Text Classifier](https://github.com/huseinzol05/Emotion-Classification-Comparison)
 5. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
+6. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
 
 ## Sequence-to-Sequence Model
 1. Attention Basic Decoder (new API)
