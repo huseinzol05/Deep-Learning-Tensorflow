@@ -11,6 +11,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 3. Encoder-Decoder
 4. Residual Network
 5. Basic Conv on MNIST
+6. Byte-Net Translator
 
 ## Feed-forward
 1. Batch-normalization
