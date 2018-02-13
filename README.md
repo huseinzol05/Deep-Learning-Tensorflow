@@ -51,4 +51,6 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 4. Lasso Regression, GIF included
 5. Elastic-net Regression, GIF included
 
+## [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+
 
