@@ -5,6 +5,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 
 ![alt text](Feed-Forward/dropout-comparison/animation.gif)
 
+## [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+
 ## Convolutional Neural Network
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
@@ -50,7 +52,5 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
 3. Ridge Regression, GIF included
 4. Lasso Regression, GIF included
 5. Elastic-net Regression, GIF included
-
-## [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
 
 
