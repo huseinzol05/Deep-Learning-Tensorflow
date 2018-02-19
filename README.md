@@ -1,5 +1,5 @@
 # Deep-Learning-Tensorflow
-Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow.
+Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
 
 *Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.*
 
