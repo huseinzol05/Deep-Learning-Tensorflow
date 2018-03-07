@@ -14,6 +14,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 4. Residual Network
 5. Basic Conv on MNIST
 6. Byte-Net Translator
+7. Siamese Network on MNIST
 
 ## Feed-forward
 1. Batch-normalization
