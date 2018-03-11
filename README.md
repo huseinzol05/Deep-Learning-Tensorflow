@@ -1,13 +1,18 @@
 # Deep-Learning-Tensorflow
 Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
 
-*Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.*
+## Information
 
-![alt text](Feed-Forward/dropout-comparison/animation.gif)
+Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
-## [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+<img src="Feed-Forward/dropout-comparison/animation.gif" height="300" align="right">
 
-## Convolutional Neural Network
+## Models
+
+#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+
+#### Convolutional Neural Network
+
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
 3. Encoder-Decoder
@@ -16,7 +21,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 6. Byte-Net Translator
 7. Siamese Network on MNIST
 
-## Feed-forward
+#### Feed-forward
+
 1. Batch-normalization
 2. Encoder-Decoder
 3. Word Vector
@@ -25,13 +31,15 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 6. Optimizer Comparison (Gradient Descent, Adagrad, RMSProp, Adam), GIF included
 7. Batch-normalization Comparison, GIF included
 
-## Generative Adversarial Network
+#### Generative Adversarial Network
+
 1. DCGAN
 2. DiscoGAN
 3. Basic GAN
 4. WGAN-improve
 
-## Recurrent Neural Network
+#### Recurrent Neural Network
+
 1. Music Generator
 2. Stock forecasting, GIF included
 3. Text Generator
@@ -39,7 +47,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 5. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
 6. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
 
-## Sequence-to-Sequence Model
+#### Sequence-to-Sequence Model
+
 1. Attention Basic Decoder (new API)
 2. Basic Seq-to-Seq
 3. Chatbot with Attention (old API)
@@ -47,7 +56,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 5. Decoder with Beam
 6. Bidirectional Encoder
 
-## Regression
+#### Regression
+
 1. Linear Regression, GIF included
 2. Polynomial Regression, GIF included
 3. Ridge Regression, GIF included
