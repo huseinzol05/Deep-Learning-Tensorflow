@@ -5,8 +5,6 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 
 Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
-<img src="Feed-Forward/dropout-comparison/animation.gif" height="300" align="right">
-
 ## Models
 
 #### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
@@ -63,5 +61,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 3. Ridge Regression, GIF included
 4. Lasso Regression, GIF included
 5. Elastic-net Regression, GIF included
+
+## Results
+
+![alt text](Feed-Forward/dropout-comparison/animation.gif)
 
 
