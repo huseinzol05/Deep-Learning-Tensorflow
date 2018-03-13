@@ -54,6 +54,13 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 5. Decoder with Beam
 6. Bidirectional Encoder
 
+#### Static optimized using Bayesian Optimization
+
+1. Conv-CIFAR10
+2. Feedforward-Iris
+3. Recurrent-Sentiment
+4. Conv-Iceberg
+
 #### Regression
 
 1. Linear Regression, GIF included
