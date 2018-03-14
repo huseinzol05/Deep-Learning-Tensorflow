@@ -28,6 +28,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 5. L1, L2, L1-L2 Regularization Comparison, GIF included
 6. Optimizer Comparison (Gradient Descent, Adagrad, RMSProp, Adam), GIF included
 7. Batch-normalization Comparison, GIF included
+8. Self-Normalized without and with API on MNIST
 
 #### Generative Adversarial Network
 
