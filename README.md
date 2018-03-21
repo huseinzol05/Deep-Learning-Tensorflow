@@ -18,6 +18,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 5. Basic Conv on MNIST
 6. Byte-Net Translator
 7. Siamese Network on MNIST
+8. Generalized Hamming Network on MNIST
 
 #### Feed-forward
 
