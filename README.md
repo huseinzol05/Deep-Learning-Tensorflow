@@ -30,6 +30,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 6. Optimizer Comparison (Gradient Descent, Adagrad, RMSProp, Adam), GIF included
 7. Batch-normalization Comparison, GIF included
 8. Self-Normalized without and with API on MNIST
+9. Addsign and Powersign Optimizer
 
 #### Generative Adversarial Network
 
