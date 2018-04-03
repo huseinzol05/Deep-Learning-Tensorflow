@@ -71,6 +71,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 3. Ridge Regression, GIF included
 4. Lasso Regression, GIF included
 5. Elastic-net Regression, GIF included
+6. Logistic Regression, GIF included
 
 ## Results
 
