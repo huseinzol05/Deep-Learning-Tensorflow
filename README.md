@@ -19,6 +19,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 6. Byte-Net Translator
 7. Siamese Network on MNIST
 8. Generalized Hamming Network on MNIST
+9. Binary-net
 
 #### Feed-forward
 
