@@ -37,6 +37,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Batch-normalization Comparison, GIF included
 8. Self-Normalized without and with API on MNIST
 9. Addsign and Powersign Optimizer
+10. Backprop without Learning Rates Through Coin Betting Optimizer (COCOB)
 
 #### Recurrent Neural Network
 
