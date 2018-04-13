@@ -1,13 +1,18 @@
 # Deep-Learning-Tensorflow
 Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
 
+## Requirements
+  * NumPy
+  * TensorFlow >= 1.0
+  * matplotlib
+  * scipy
+  * Python 3.X
+
 ## Information
 
 Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 ## Models
-
-#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
 
 #### Convolutional Neural Network
 
@@ -32,13 +37,6 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Batch-normalization Comparison, GIF included
 8. Self-Normalized without and with API on MNIST
 9. Addsign and Powersign Optimizer
-
-#### Generative Adversarial Network
-
-1. DCGAN
-2. DiscoGAN
-3. Basic GAN
-4. WGAN-improve
 
 #### Recurrent Neural Network
 
@@ -76,7 +74,33 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 5. Elastic-net Regression, GIF included
 6. Sigmoid Regression, GIF included
 
+#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+
+1. Policy gradient
+2. Q-learning
+3. Double Q-learning
+4. Recurrent-Q-learning
+5. Double Recurrent-Q-learning
+6. Dueling Q-learning
+7. Dueling Recurrent-Q-learning
+8. Double Dueling Q-learning
+9. Double Dueling Recurrent-Q-learning
+10. Actor-Critic
+11. Actor-Critic Dueling
+12. Actor-Critic Recurrent
+13. Actor-Critic Dueling Recurrent
+14. Async Q-learning
+
+#### Generative Adversarial Network
+
+1. DCGAN
+2. DiscoGAN
+3. Basic GAN
+4. WGAN-improve
+
 ## Results
+
+feed-forward, not dropout vs dropout
 
 ![alt text](Feed-Forward/dropout-comparison/animation.gif)
 
