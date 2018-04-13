@@ -102,6 +102,10 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 ## Results
 
+gradient techniques comparison
+
+![alt text](Feed-Forward/gradient-comparison/animation.gif)
+
 feed-forward, not dropout vs dropout
 
 ![alt text](Feed-Forward/dropout-comparison/animation.gif)
