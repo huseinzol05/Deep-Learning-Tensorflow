@@ -48,6 +48,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 6. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
 7. Time-Aware Long-Short Term Memory
 8. Dilated RNN
+9. Layer-Norm LSTM
 
 #### Sequence-to-Sequence Model
 
