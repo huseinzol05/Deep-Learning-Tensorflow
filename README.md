@@ -50,6 +50,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Time-Aware Long-Short Term Memory
 8. Dilated RNN
 9. Layer-Norm LSTM
+10. Neural Turing Machine
 
 #### Sequence-to-Sequence Model
 
