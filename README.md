@@ -51,6 +51,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 8. Dilated RNN
 9. Layer-Norm LSTM
 10. Neural Turing Machine
+11. Only Attention
 
 #### Sequence-to-Sequence Model
 
