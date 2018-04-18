@@ -25,6 +25,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Siamese Network on MNIST
 8. Generalized Hamming Network on MNIST
 9. Binary-net
+10. Kmax Conv1d
 
 #### Feed-forward
 
