@@ -63,6 +63,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 4. Summarization with Attention (old API)
 5. Decoder with Beam
 6. Bidirectional Encoder
+7. Seq2Seq Estimator
 
 #### Static optimized using Bayesian Optimization
 
