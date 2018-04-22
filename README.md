@@ -62,9 +62,10 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 3. Chatbot with Attention (old API)
 4. Summarization with Attention (old API)
 5. Luong attention
-6. Bidirectional
-7. Estimator
-8. Altimatum (bidirectional + lstm + luong + beam)
+6. Bahdanau attention
+7. Bidirectional
+8. Estimator
+9. Altimatum (bidirectional + lstm + luong + beam)
 
 #### Static optimized using Bayesian Optimization
 
