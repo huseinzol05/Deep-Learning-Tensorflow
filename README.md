@@ -57,13 +57,14 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 #### Sequence-to-Sequence Model
 
-1. Attention Basic Decoder (new API)
-2. Basic Seq-to-Seq
+1. Basic Seq-to-Seq
+2. Beam decoder
 3. Chatbot with Attention (old API)
 4. Summarization with Attention (old API)
-5. Decoder with Beam
-6. Bidirectional Encoder
-7. Seq2Seq Estimator
+5. Luong attention
+6. Bidirectional
+7. Estimator
+8. Altimatum (bidirectional + lstm + luong + beam)
 
 #### Static optimized using Bayesian Optimization
 
