@@ -54,6 +54,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 10. Neural Turing Machine
 11. Only Attention
 12. Multihead Attention
+13. Fast-slow LSTM
 
 #### Sequence-to-Sequence Model
 
