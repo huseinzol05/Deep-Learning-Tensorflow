@@ -55,6 +55,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 11. Only Attention
 12. Multihead Attention
 13. Fast-slow LSTM
+14. Siamese Network
 
 #### Sequence-to-Sequence Model
 
