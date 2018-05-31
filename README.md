@@ -111,6 +111,10 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 3. Basic GAN
 4. WGAN-improve
 
+#### Tensorboard
+
+1. RNN-LSTM 20newsgroup
+
 ## Results
 
 gradient techniques comparison
