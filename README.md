@@ -114,8 +114,13 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 #### Tensorboard
 
 1. RNN-LSTM 20newsgroup
+2. Tensorboard debugger
 
 ## Results
+
+tensorboard debugger
+
+![alt text](Tensorboard/debugger/printscreen/1.png)
 
 gradient techniques comparison
 
@@ -124,5 +129,3 @@ gradient techniques comparison
 feed-forward, not dropout vs dropout
 
 ![alt text](Feed-Forward/dropout-comparison/animation.gif)
-
-
