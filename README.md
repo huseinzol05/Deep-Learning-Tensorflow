@@ -27,6 +27,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 9. Binary-net
 10. Kmax Conv1d
 11. Temporal Conv1d
+12. Triplet loss on MNIST
 
 #### Feed-forward
 
