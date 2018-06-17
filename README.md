@@ -59,6 +59,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 13. Fast-slow LSTM
 14. Siamese Network
 15. Nested LSTM
+16. DNC (Differentiable Neural Computer)
 
 #### Sequence-to-Sequence Model
 
