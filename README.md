@@ -118,6 +118,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 1. RNN-LSTM 20newsgroup
 2. Tensorboard debugger
 
+#### Transfer-learning
+1. Emotion dataset on MobilenetV2
+
 ## Results
 
 tensorboard debugger
