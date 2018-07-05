@@ -124,7 +124,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 tensorboard debugger
 
-![alt text](Misc/debugger/printscreen/1.png)
+![alt text](Misc/2.debugger/printscreen/1.png)
 
 gradient techniques comparison
 
