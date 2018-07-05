@@ -113,19 +113,18 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 3. Basic GAN
 4. WGAN-improve
 
-#### Tensorboard
+#### Misc
 
 1. RNN-LSTM 20newsgroup
 2. Tensorboard debugger
-
-#### Transfer-learning
-1. Emotion dataset on MobilenetV2
+3. Transfer learning emotion dataset on MobilenetV2
+4. Multiprocessing tfrecords
 
 ## Results
 
 tensorboard debugger
 
-![alt text](Tensorboard/debugger/printscreen/1.png)
+![alt text](Misc/debugger/printscreen/1.png)
 
 gradient techniques comparison
 
