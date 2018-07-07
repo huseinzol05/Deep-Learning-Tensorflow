@@ -119,6 +119,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 2. Tensorboard debugger
 3. Transfer learning emotion dataset on MobilenetV2
 4. Multiprocessing tfrecords
+5. TF-Serving
 
 ## Results
 
