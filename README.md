@@ -62,6 +62,10 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 15. Nested LSTM
 16. DNC (Differentiable Neural Computer)
 
+### Attention Model
+1. Bahdanau
+2. Luong
+
 #### Sequence-to-Sequence Model
 
 1. Basic Seq-to-Seq
@@ -116,7 +120,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 #### Misc
 
-1. RNN-LSTM 20newsgroup
+1. RNN-LSTM 20newsgroup Tensorboard histrogram
 2. Tensorboard debugger
 3. Transfer learning emotion dataset on MobilenetV2
 4. Multiprocessing tfrecords
