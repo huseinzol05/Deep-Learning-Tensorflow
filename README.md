@@ -65,6 +65,12 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 ### Attention Model
 1. Bahdanau
 2. Luong
+3. Hierarchical
+4. Additive
+5. Soft
+6. Attention-over-Attention
+7. Bahdanau API
+8. Luong API
 
 #### Sequence-to-Sequence Model
 
