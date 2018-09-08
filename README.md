@@ -1,13 +1,6 @@
 # Deep-Learning-Tensorflow
 Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
 
-## Requirements
-  * NumPy
-  * TensorFlow >= 1.0
-  * matplotlib
-  * scipy
-  * Python 3.X
-
 ## Information
 
 Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
@@ -61,6 +54,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 14. Siamese Network
 15. Nested LSTM
 16. DNC (Differentiable Neural Computer)
+17. GAN Sentence
 
 ### Attention Model
 1. Bahdanau
