@@ -108,7 +108,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 </details>
 
-<details><summary>[Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)</summary>
+<details><summary>Reinforcement-learning</summary>
+
+I code in external repository, can check [here](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
 
 1. Policy gradient
 2. Q-learning
