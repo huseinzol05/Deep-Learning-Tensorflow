@@ -7,7 +7,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 
 ## Models
 
-#### Convolutional Neural Network
+<details><summary>Convolutional Neural Network</summary>
 
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
@@ -23,7 +23,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 12. Triplet loss on MNIST
 13. Dense-net
 
-#### Feed-forward
+</details>
+
+<details><summary>Feed-forward Neural Network</summary>
 
 1. Batch-normalization
 2. Encoder-Decoder
@@ -36,27 +38,31 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 9. Addsign and Powersign Optimizer
 10. Backprop without Learning Rates Through Coin Betting Optimizer (COCOB)
 
-#### Recurrent Neural Network
+</details>
+
+<details><summary>Recurrent Neural Network</summary>
 
 1. Music Generator
 2. Stock forecasting, GIF included
 3. Text Generator
-4. [Text Classifier](https://github.com/huseinzol05/Emotion-Classification-Comparison)
-5. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
-6. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
-7. Time-Aware Long-Short Term Memory
-8. Dilated RNN
-9. Layer-Norm LSTM
-10. Neural Turing Machine
-11. Only Attention
-12. Multihead Attention
-13. Fast-slow LSTM
-14. Siamese Network
-15. Nested LSTM
-16. DNC (Differentiable Neural Computer)
-17. GAN Sentence
+4. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
+5. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
+6. Time-Aware Long-Short Term Memory
+7. Dilated RNN
+8. Layer-Norm LSTM
+9. Neural Turing Machine
+10. Only Attention
+11. Multihead Attention
+12. Fast-slow LSTM
+13. Siamese Network
+14. Nested LSTM
+15. DNC (Differentiable Neural Computer)
+16. GAN Sentence
 
-### Attention Model
+</details>
+
+<details><summary>Attention Model</summary>
+
 1. Bahdanau
 2. Luong
 3. Hierarchical
@@ -66,7 +72,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Bahdanau API
 8. Luong API
 
-#### Sequence-to-Sequence Model
+</details>
+
+<details><summary>Sequence-to-Sequence</summary>
 
 1. Basic Seq-to-Seq
 2. Beam decoder
@@ -78,14 +86,18 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 8. Estimator
 9. Altimatum (bidirectional + lstm + luong + beam)
 
-#### Static optimized using Bayesian Optimization
+</details>
+
+<details><summary>Bayesian Hyperparameter Optimization</summary>
 
 1. Conv-CIFAR10
 2. Feedforward-Iris
 3. Recurrent-Sentiment
 4. Conv-Iceberg
 
-#### Regression
+</details>
+
+<details><summary>Regression</summary>
 
 1. Linear Regression, GIF included
 2. Polynomial Regression, GIF included
@@ -94,7 +106,9 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 5. Elastic-net Regression, GIF included
 6. Sigmoid Regression, GIF included
 
-#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+</details>
+
+<details><summary>[Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)</summary>
 
 1. Policy gradient
 2. Q-learning
@@ -111,20 +125,26 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 13. Actor-Critic Dueling Recurrent
 14. Async Q-learning
 
-#### Generative Adversarial Network
+</details>
+
+<details><summary>GAN</summary>
 
 1. DCGAN
 2. DiscoGAN
 3. Basic GAN
 4. WGAN-improve
 
-#### Misc
+</details>
+
+<details><summary>Misc</summary>
 
 1. RNN-LSTM 20newsgroup Tensorboard histrogram
 2. Tensorboard debugger
 3. Transfer learning emotion dataset on MobilenetV2
 4. Multiprocessing tfrecords
 5. TF-Serving
+
+</details>
 
 ## Results
 
