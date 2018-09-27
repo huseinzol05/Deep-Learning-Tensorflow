@@ -105,6 +105,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 4. Lasso Regression, GIF included
 5. Elastic-net Regression, GIF included
 6. Sigmoid Regression, GIF included
+7. Quantile Regression
 
 </details>
 
