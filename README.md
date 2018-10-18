@@ -22,6 +22,7 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 11. Temporal Conv1d
 12. Triplet loss on MNIST
 13. Dense-net
+14. U-net
 
 </details>
 
@@ -85,6 +86,12 @@ Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
 7. Bidirectional
 8. Estimator
 9. Altimatum (bidirectional + lstm + luong + beam)
+
+</details>
+
+<details><summary>Hybrid</summary>
+
+1. CNN + LSTM RNN for OCR
 
 </details>
 
