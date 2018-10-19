@@ -1,10 +1,6 @@
 # Deep-Learning-Tensorflow
 Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
 
-## Information
-
-Some of notebooks got GIF showing training movement. WARNING, it pretty heavy.
-
 ## Models
 
 <details><summary>Convolutional Neural Network</summary>
@@ -153,10 +149,11 @@ I code in external repository, can check [here](https://github.com/huseinzol05/R
 3. Transfer learning emotion dataset on MobilenetV2
 4. Multiprocessing tfrecords
 5. TF-Serving
+6. Renaming checkpoint
 
 </details>
 
-## Results
+## Some Results
 
 tensorboard debugger
 
