@@ -150,6 +150,7 @@ I code in external repository, can check [here](https://github.com/huseinzol05/R
 4. Multiprocessing tfrecords
 5. TF-Serving
 6. Renaming checkpoint
+7. Load Inception
 
 </details>
 
