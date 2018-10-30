@@ -1,8 +1,20 @@
 # Deep-Learning-Tensorflow
 Tensorflow related repository, covered pretty much about it.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/2000px-Tensorflow_logo.svg.png" align="right" width="20%">
+
 ## Table of contents
-  * [Convolutional Neural Network](#Convolutional Neural Network)
+  * [Convolutional Neural Network](https://github.com/huseinzol05/Deep-Learning-Tensorflow#convolutional-neural-network)
+  * [Feed-forward Neural Network](https://github.com/huseinzol05/Deep-Learning-Tensorflow#feed-forward-neural-network)
+  * [Recurrent Neural Network](https://github.com/huseinzol05/Deep-Learning-Tensorflow#recurrent-neural-network)
+  * [Attention API](https://github.com/huseinzol05/Deep-Learning-Tensorflow#attention-api)
+  * [Sequence-to-Sequence](https://github.com/huseinzol05/Deep-Learning-Tensorflow#sequence-to-sequence)
+  * [Hybrid Model](https://github.com/huseinzol05/Deep-Learning-Tensorflow#hybrid-model)
+  * [Bayesian Hyperparameter Optimization](https://github.com/huseinzol05/Deep-Learning-Tensorflow#bayesian-hyperparameter-optimization)
+  * [Regression](https://github.com/huseinzol05/Deep-Learning-Tensorflow#regression)
+  * [Reinforcement-learning](https://github.com/huseinzol05/Deep-Learning-Tensorflow#reinforcement-learning)
+  * [Miscellaneous](https://github.com/huseinzol05/Deep-Learning-Tensorflow#miscellaneous)
+  * [Generative Adversarial Network](https://github.com/huseinzol05/Deep-Learning-Tensorflow#generative-adversarial-network)
 
 ### Convolutional Neural Network
 
