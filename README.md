@@ -1,9 +1,7 @@
 # Deep-Learning-Tensorflow
-Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. This repository focused on not-really deep architecture.
+Tensorflow related repository, covered pretty much about it.
 
-## Models
-
-<details><summary>Convolutional Neural Network</summary>
+#### Convolutional Neural Network
 
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
@@ -20,9 +18,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 13. Dense-net
 14. U-net
 
-</details>
-
-<details><summary>Feed-forward Neural Network</summary>
+#### Feed-forward Neural Network
 
 1. Batch-normalization
 2. Encoder-Decoder
@@ -35,14 +31,12 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 9. Addsign and Powersign Optimizer
 10. Backprop without Learning Rates Through Coin Betting Optimizer (COCOB)
 
-</details>
-
-<details><summary>Recurrent Neural Network</summary>
+#### Recurrent Neural Network
 
 1. Music Generator
 2. Stock forecasting, GIF included
 3. Text Generator
-4. [Signal Classifier](https://github.com/huseinzol05/Sound-Classification-Comparison)
+4. [Signal Classifier](https://github.com/huseinzol05/Signal-Classification-Comparison)
 5. Generator Comparison (LSTM GRU, LSTM Bidirectional, GRU Bidirectional), GIF included
 6. Time-Aware Long-Short Term Memory
 7. Dilated RNN
@@ -54,11 +48,8 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 13. Siamese Network
 14. Nested LSTM
 15. DNC (Differentiable Neural Computer)
-16. GAN Sentence
 
-</details>
-
-<details><summary>Attention Model</summary>
+#### Attention API
 
 1. Bahdanau
 2. Luong
@@ -69,9 +60,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 7. Bahdanau API
 8. Luong API
 
-</details>
-
-<details><summary>Sequence-to-Sequence</summary>
+#### Sequence-to-Sequence
 
 1. Basic Seq-to-Seq
 2. Beam decoder
@@ -83,24 +72,19 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 8. Estimator
 9. Altimatum (bidirectional + lstm + luong + beam)
 
-</details>
-
-<details><summary>Hybrid</summary>
+#### Hybrid Model
 
 1. CNN + LSTM RNN for OCR
+2. GAN Sentence
 
-</details>
-
-<details><summary>Bayesian Hyperparameter Optimization</summary>
+#### Bayesian Hyperparameter Optimization
 
 1. Conv-CIFAR10
 2. Feedforward-Iris
 3. Recurrent-Sentiment
 4. Conv-Iceberg
 
-</details>
-
-<details><summary>Regression</summary>
+#### Regression
 
 1. Linear Regression, GIF included
 2. Polynomial Regression, GIF included
@@ -110,11 +94,7 @@ Purely Tensorflow, no Keras, no slim or other abstract libraries of Tensorflow. 
 6. Sigmoid Regression, GIF included
 7. Quantile Regression
 
-</details>
-
-<details><summary>Reinforcement-learning</summary>
-
-I code in external repository, can check [here](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
 
 1. Policy gradient
 2. Q-learning
@@ -131,18 +111,7 @@ I code in external repository, can check [here](https://github.com/huseinzol05/R
 13. Actor-Critic Dueling Recurrent
 14. Async Q-learning
 
-</details>
-
-<details><summary>GAN</summary>
-
-1. DCGAN
-2. DiscoGAN
-3. Basic GAN
-4. WGAN-improve
-
-</details>
-
-<details><summary>Misc</summary>
+#### Miscellaneous
 
 1. RNN-LSTM 20newsgroup Tensorboard histrogram
 2. Tensorboard debugger
@@ -150,20 +119,11 @@ I code in external repository, can check [here](https://github.com/huseinzol05/R
 4. Multiprocessing tfrecords
 5. TF-Serving
 6. Renaming checkpoint
-7. Load Inception
+7. Load Tensorflow Slim Checkpoint
 
-</details>
+#### Generative Adversarial Network
 
-## Some Results
-
-tensorboard debugger
-
-![alt text](Misc/2.debugger/printscreen/1.png)
-
-gradient techniques comparison
-
-![alt text](Feed-Forward/gradient-comparison/animation.gif)
-
-feed-forward, not dropout vs dropout
-
-![alt text](Feed-Forward/dropout-comparison/animation.gif)
+1. DCGAN
+2. DiscoGAN
+3. Basic GAN
+4. WGAN-improve
