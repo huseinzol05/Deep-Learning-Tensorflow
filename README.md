@@ -1,5 +1,6 @@
 # Deep-Learning-Tensorflow
-Tensorflow related repository, covered pretty much about it.
+
+Gathers Tensorflow deep learning projects.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/2000px-Tensorflow_logo.svg.png" align="right" width="20%">
 
