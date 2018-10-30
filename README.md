@@ -1,7 +1,10 @@
 # Deep-Learning-Tensorflow
 Tensorflow related repository, covered pretty much about it.
 
-#### Convolutional Neural Network
+## Table of contents
+  * [Convolutional Neural Network](#Convolutional Neural Network)
+
+### Convolutional Neural Network
 
 1. Scratch Alex-net CIFAR 10
 2. Capsule Network
@@ -18,7 +21,7 @@ Tensorflow related repository, covered pretty much about it.
 13. Dense-net
 14. U-net
 
-#### Feed-forward Neural Network
+### Feed-forward Neural Network
 
 1. Batch-normalization
 2. Encoder-Decoder
@@ -31,7 +34,7 @@ Tensorflow related repository, covered pretty much about it.
 9. Addsign and Powersign Optimizer
 10. Backprop without Learning Rates Through Coin Betting Optimizer (COCOB)
 
-#### Recurrent Neural Network
+### Recurrent Neural Network
 
 1. Music Generator
 2. Stock forecasting, GIF included
@@ -49,7 +52,7 @@ Tensorflow related repository, covered pretty much about it.
 14. Nested LSTM
 15. DNC (Differentiable Neural Computer)
 
-#### Attention API
+### Attention API
 
 1. Bahdanau
 2. Luong
@@ -60,7 +63,7 @@ Tensorflow related repository, covered pretty much about it.
 7. Bahdanau API
 8. Luong API
 
-#### Sequence-to-Sequence
+### Sequence-to-Sequence
 
 1. Basic Seq-to-Seq
 2. Beam decoder
@@ -72,12 +75,12 @@ Tensorflow related repository, covered pretty much about it.
 8. Estimator
 9. Altimatum (bidirectional + lstm + luong + beam)
 
-#### Hybrid Model
+### Hybrid Model
 
 1. CNN + LSTM RNN for OCR
 2. GAN Sentence
 
-#### Bayesian Hyperparameter Optimization
+### Bayesian Hyperparameter Optimization
 
 1. Conv-CIFAR10
 2. Feedforward-Iris
@@ -94,7 +97,7 @@ Tensorflow related repository, covered pretty much about it.
 6. Sigmoid Regression, GIF included
 7. Quantile Regression
 
-#### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
+### [Reinforcement-learning](https://github.com/huseinzol05/Reinforcement-Learning-Agents)
 
 1. Policy gradient
 2. Q-learning
@@ -111,7 +114,7 @@ Tensorflow related repository, covered pretty much about it.
 13. Actor-Critic Dueling Recurrent
 14. Async Q-learning
 
-#### Miscellaneous
+### Miscellaneous
 
 1. RNN-LSTM 20newsgroup Tensorboard histrogram
 2. Tensorboard debugger
@@ -121,7 +124,7 @@ Tensorflow related repository, covered pretty much about it.
 6. Renaming checkpoint
 7. Load Tensorflow Slim Checkpoint
 
-#### Generative Adversarial Network
+### Generative Adversarial Network
 
 1. DCGAN
 2. DiscoGAN
