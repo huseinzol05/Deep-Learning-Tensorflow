@@ -64,6 +64,7 @@ Gathers Tensorflow deep learning projects.
 13. Siamese Network
 14. Nested LSTM
 15. DNC (Differentiable Neural Computer)
+16. Simple Recurrent Unit
 
 ### Attention API
 
