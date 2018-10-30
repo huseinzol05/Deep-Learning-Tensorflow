@@ -136,6 +136,7 @@ Gathers Tensorflow deep learning projects.
 5. TF-Serving
 6. Renaming checkpoint
 7. Load Tensorflow Slim Checkpoint
+8. Observed how Inception learned
 
 ### Generative Adversarial Network
 
