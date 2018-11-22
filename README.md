@@ -14,6 +14,7 @@ Gathers Tensorflow deep learning projects.
   * [Bayesian Hyperparameter Optimization](https://github.com/huseinzol05/Deep-Learning-Tensorflow#bayesian-hyperparameter-optimization)
   * [Regression](https://github.com/huseinzol05/Deep-Learning-Tensorflow#regression)
   * [Reinforcement-learning](https://github.com/huseinzol05/Deep-Learning-Tensorflow#reinforcement-learning)
+  * [Distributed](https://github.com/huseinzol05/Deep-Learning-Tensorflow#distributed)
   * [Miscellaneous](https://github.com/huseinzol05/Deep-Learning-Tensorflow#miscellaneous)
   * [Generative Adversarial Network](https://github.com/huseinzol05/Deep-Learning-Tensorflow#generative-adversarial-network)
 
@@ -128,6 +129,12 @@ Gathers Tensorflow deep learning projects.
 13. Actor-Critic Dueling Recurrent
 14. Async Q-learning
 
+### Distributed
+
+1. TF-Distributed
+2. Sparkflow
+3. Dask Tensorflow
+
 ### Miscellaneous
 
 1. RNN-LSTM 20newsgroup Tensorboard histrogram
@@ -138,7 +145,6 @@ Gathers Tensorflow deep learning projects.
 6. Renaming checkpoint
 7. Load Tensorflow Slim Checkpoint
 8. Observed how Inception learned
-9. TF-Distributed
 
 ### Generative Adversarial Network
 
